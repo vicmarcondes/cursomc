@@ -1,0 +1,35 @@
+[33mcommit e23fc7b7bb5f739e1a9c0c2899a44b8db19ba688[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Victor Moreno <victorgalves@hotmail.com>
+Date:   Wed Mar 13 11:45:36 2019 -0300
+
+    Criado a operação de instanciação
+
+[33mcommit 4dcadd644b0665398669b16a62419f9f1d491369[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Victor Moreno <victorgalves@hotmail.com>
+Date:   Tue Mar 12 12:41:30 2019 -0300
+
+    Criando o repository e o service da Categoria
+
+[33mcommit 5e5436172ef5327b356efd899d222ecec1d05324[m
+Author: Victor Moreno <victorgalves@hotmail.com>
+Date:   Mon Mar 11 12:24:13 2019 -0300
+
+    Testando JPA no dominio Categoria
+
+[33mcommit 8ab736c557ff209be67090cb63110c86e0cfea97[m
+Author: Victor Moreno <victorgalves@hotmail.com>
+Date:   Mon Mar 11 12:11:34 2019 -0300
+
+    Testando a primeira classe de dominio - Categoria
+
+[33mcommit d298be2ad1b579a8e441c3cca807c005806d0d56[m
+Author: Victor Moreno <victorgalves@hotmail.com>
+Date:   Mon Mar 11 11:49:36 2019 -0300
+
+    REST testado
+
+[33mcommit a7155173d57a35a432037dd7a79689b6a5538c7d[m
+Author: Victor Moreno <victorgalves@hotmail.com>
+Date:   Sun Mar 10 23:17:13 2019 -0300
+
+    Criação do projeto
