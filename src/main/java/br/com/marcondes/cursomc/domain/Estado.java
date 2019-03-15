@@ -25,7 +25,6 @@ public class Estado implements Serializable {
 
 	public Estado() {
 	}
-
 	public Estado(Integer id, String nome) {
 		this.id = id;
 		this.nome = nome;
