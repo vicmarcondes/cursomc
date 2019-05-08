@@ -77,7 +77,7 @@ public class CategoriaResource {
 			@RequestParam(value="orderBy", defaultValue="nome") String orderBy, 
 			@RequestParam(value="direction", defaultValue="ASC") String direction) {
 		Page<Categoria> list = service.findPage(page, linesPerPage, orderBy, direction);
-		Page<CategoriaDTO> listDTO = list.map(obj -> new CategoriaDTO(obj));
+		Page<CategoriaDTO> listDTO = list.map(obj -> new CategoriaDTO(obj)); // não precisa do collect e stream pois é compatível
 		return ResponseEntity.ok().body(listDTO);
 	}
 }
